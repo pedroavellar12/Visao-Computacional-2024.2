@@ -1,5 +1,3 @@
-Ementa da disciplina Visão Computacional (IME 049128)
-
 I- Conceitos básicos: Apresentação da disciplina; Imagem contı́nua, discreta e digital; Histograma, brilho e contraste; Quantização e Discretização; Fundamentos do Processamento de Sinais; Teoria da Amostragem e Transformada de Fourier 1D; Convolução e Teorema da Convolução
 
 II - Operações em imagens: Operações pontuais; Operações de Vizinhança e filtragem espacial; Operações Morfológicas; Operações Geométricas
