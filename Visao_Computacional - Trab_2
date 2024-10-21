@@ -1,0 +1,6 @@
+!git clone https://github.com/guimota-uerj/TestImages.git
+!pwd
+!ls
+
+%cd /content/TestImages/PorDoSol/
+!ls
