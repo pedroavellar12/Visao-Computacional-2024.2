@@ -63,6 +63,8 @@ for i, gamma in enumerate(gamma_values):
 plt.tight_layout()
 plt.show()
 
+
+# Calcular e exibir a média e o desvio padrão do histograma da imagem original
 mean_original = np.mean(original)
 std_original = np.std(original)
 
